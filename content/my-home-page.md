@@ -5,12 +5,15 @@ layout = "blocks"
 title = "My Home Page"
 [[page_sections]]
 block = "header-2"
-logo = ""
-navigation = []
+logo = "/uploads/red-logo.png"
 template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = ""
 link_url = ""
+open_in_new_tab = false
+[[page_sections.navigation]]
+link_text = "home"
+link_url = "my-home-page"
 open_in_new_tab = false
 [[page_sections]]
 block = "hero-1"
