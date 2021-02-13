@@ -30,7 +30,7 @@ alt_text = ""
 image = ""
 [[page_sections]]
 block = "footer-1"
-content = ""
+content = "Danke für ihre Afmehrsamkeit! "
 template = "simple-footer"
 
 +++
