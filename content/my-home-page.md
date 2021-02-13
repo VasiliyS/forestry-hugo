@@ -13,7 +13,7 @@ link_url = "#"
 open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "home"
-link_url = "my-home-page"
+link_url = "/my-home-page"
 open_in_new_tab = false
 [[page_sections]]
 block = "hero-1"
