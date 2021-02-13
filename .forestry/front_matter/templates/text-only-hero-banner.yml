@@ -14,3 +14,4 @@ fields:
       format: html
   label: Headline
   name: heading
+  default: "<strong>Welcome to Forestry!</strong>"
