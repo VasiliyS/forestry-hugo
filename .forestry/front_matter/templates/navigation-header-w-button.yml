@@ -10,12 +10,15 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/red-logo.png"
 - type: field_group_list
   name: navigation
   label: Navigation
   fields:
   - type: include
     template: link
+    name: home
+    label: home
   config:
     labelField: link_text
 - type: field_group
@@ -24,3 +27,5 @@ fields:
   fields:
   - type: include
     template: link
+    name: join_us
+    label: join us
