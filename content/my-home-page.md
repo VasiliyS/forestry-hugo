@@ -18,8 +18,8 @@ heading = ""
 template = "text-only-hero-banner"
 [[page_sections]]
 block = "feature-1"
-content = ""
-headline = ""
+content = "Here goes some coll content!"
+headline = "Content Headline goes here"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
