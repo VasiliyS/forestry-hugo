@@ -14,7 +14,7 @@ link_url = ""
 open_in_new_tab = false
 [[page_sections]]
 block = "hero-1"
-heading = ""
+heading = "Welcome to our <strong>super duper</strong> website!"
 template = "text-only-hero-banner"
 [[page_sections]]
 block = "feature-1"
